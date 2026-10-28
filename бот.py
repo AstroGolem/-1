@@ -9,7 +9,7 @@ from flask import Flask
 # НАСТРОЙКИ БОТА
 # ==========================================
 BOT_TOKEN = os.environ.get("TELEGRAM_TOKEN")
-bot = telebot.TeleBot(BOT_TOKEN)
+bot = telebot.TeleBot(8683246282:AAHwce5Oxu9Y2EqkBnYsRzyNw7plHaapmPM)
 GROUP_ID = -5562252323
 ADMIN_IDS = [5389430769]
 
